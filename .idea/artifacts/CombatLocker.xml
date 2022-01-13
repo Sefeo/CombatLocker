@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CombatLocker">
+    <output-path>$USER_HOME$/Desktop/MinecraftProjects/NewTest/plugins</output-path>
+    <root id="archive" name="CombatLocker.jar">
+      <element id="module-output" name="CombatLocker" />
+    </root>
+  </artifact>
+</component>
